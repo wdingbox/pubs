@@ -362,8 +362,13 @@
             );
         }
         function on_view_data() {
+            document.getElementById("tout").style.backgroundColor="yellow"
             var str = document.getElementById("tout").value
-            if (str.trim().length === 0) return alert("no data to read. Please paste or load your data here.")
+            if (str.trim().length === 0) {
+                document.getElementById("tout").focus()
+                document.getElementById("tout").style.backgroundColor="red"
+                return alert("no data to read. Please paste or load your data here.")
+            }
             try {
                 var obj = JSON.parse(str);
                 //var dat = obj_to_chart_data(obj)
