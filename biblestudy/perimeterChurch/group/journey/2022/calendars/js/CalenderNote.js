@@ -24,7 +24,7 @@ var CalenderNote = {
             var special = "", ReservedDays = CalenderNote.gen_ReservedDates()
             if (ReservedDays[sdateID]) {
                 ReservedDays[sdateID].forEach((desc) => {
-                    special = `<a class='ReservedDesc' title='${desc}' href='${Festival_Website[desc]}'>${desc.substr(0, 5)}</a><br>`
+                    special = `<a class='ReservedDesc' title='${desc}' href='${CalenderNote.Festival_Website[desc]}'>${desc.substr(0, 5)}</a><br>`
                 })
             }
 
@@ -209,7 +209,20 @@ var CalenderNote = {
     }
 
     ,
+    Festival_Website : {
+        "Purim": "https://www.infoplease.com/culture-entertainment/holidays/what-purim",
+        "Passover": "https://www.infoplease.com/encyclopedia/religion/judaism/info/passover",
+        "Shavuot": "https://www.infoplease.com/encyclopedia/religion/judaism/info/shavuot",
+        "RoshHashaah": "https://www.infoplease.com/culture-entertainment/holidays/rosh-hashanah-jewish-new-year",
+        "YomKippur": "https://www.infoplease.com/culture-entertainment/holidays/what-yom-kippur",
+        "Sukkot": "https://www.infoplease.com/encyclopedia/religion/judaism/info/tabernacles-feast-of",
+        "ShemiiAtzeret": "https://www.infoplease.com/dictionary/shemini-atzereth"
+    },
     gen_ReservedDates: function () {
+        //https://www.infoplease.com/calendars/holidays/jewish-holidays
+        //NOTE: All Hebrew holidays begin at sundown on the evening before the date given.
+
+
         var Jewish_Festival_Dates = {
             "10_02_28": "Purim",
             "10_03_30": "Passover",
