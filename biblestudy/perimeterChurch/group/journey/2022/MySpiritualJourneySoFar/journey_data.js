@@ -104,7 +104,7 @@ var journey_data =
     ],
     "1989": [
         "-88.7",
-        "Tiananmen massacre. a tough decision to make between the master's degree diploma and the freedom, justice or truth, between the surviving and death. (2) It is a turning point of my original materialism, marxism and communism faith. The three love became three hatred in my life. My goal of life was to leave China forever. Trump is my reminder of such trauma. (3) Work in Capital Iron & Steel Coop (CISC). "
+        "Tiananmen massacre. a tough decision to make between the master's degree diploma and the freedom, justice or truth, between the surviving and death. (2) It is a turning point of my attitude toward my original materialism, marxism and communism faith--the three loves became three hatred in my life--my goal of life was to leave China forever. Trump is my reminder of such trauma. (3) Work in Capital Iron & Steel Coop (CISC). "
     ],
     "1990": [
         "",
