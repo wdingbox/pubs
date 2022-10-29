@@ -1,0 +1,148 @@
+<html>
+
+<head>
+    <title>9fruits</title>
+    <base target="_blank" />
+    <META http-equiv="Content-Type" content="text/html;" charset="UTF-8">
+    <META name="viewport" content="width=device-witdh, initial-scale=1, maximum-scale=1, user-scale=0">
+    <script src="./js/jq.js"></script>
+    <script src="./js/jq_tablesorter.js"></script>
+    <script src="./Gal522_9fruits.js"></script>
+    <style type="text/css">
+        body {
+            align: center;
+            width: 700px;
+        }
+
+        .hili {
+            background-color: grey;
+        }
+
+        .hiliTD {
+            background-color: lightgreen;
+        }
+
+        .hiliTR {
+            border: 9px solid red;
+        }
+
+        th {
+            background-color: gray;
+        }
+
+        td[contenteditable] {
+            background-color: lightyellow;
+        }
+
+        .mtrx,
+        dmtrx {
+            margin-left: auto;
+            margin-right: auto;
+
+            text-align: center;
+        }
+
+        .matInSvr {
+            color: red;
+        }
+    </style>
+    <script>
+        //auto gen only
+        //const FRUITS = ["love", "joy", "peace", "patience", "kindness", "goodness", "faithful", "gentleness", "self-controll"]
+        $(function () {
+            $(".rangeinput").val(0)
+
+            $("input[type='checkbox'").on("click", function () {
+                var tot = $(this).parentsUntil("tr").find("input").length
+                var nChecked = $(this).parentsUntil("tr").find("input[type='checkbox']:checked").length
+                //$(this).parentsUntil("tbody").find(".rangeinput").val(100 * nChecked / tot)
+            })
+
+            gen_trs()
+            gen_matrix()
+            gen_agape16()
+        })
+
+        function gen_trs() {
+
+            function checkary(ary) {
+                var os = "<ol>"
+                ary.forEach(function (val) {
+                    os += `<li><input type='checkbox'>${val}</input></li>`
+                })
+                os += "</ol>"
+                return os
+            }
+
+            var trs = ""
+            Object.keys(NineFruits).forEach(function (key, i) {
+                var obj = NineFruits[key]
+                trs += `<tr><td>${1 + i}</td><td>${key}<br>${obj.chn}<br><a href='${obj.href}'>${obj.gre}</a><br>${obj.lit}</td>`
+                trs += `<td>${checkary(obj.positive)}</td><td>${checkary(obj.negative)}</td></tr>`
+            });
+
+            $("#tbd").html(trs)
+        }
+
+        function gen_matrix() {
+            Object.keys(NineFruits).forEach(function (key, i) {
+                var obj = NineFruits[key]
+                var hts = `<div class='dmtrx'>${key}<br>${obj.chn}<br><a href='${obj.href}'>${obj.gre}</a><br>${obj.lit}</div>`
+                $(`.mtrx:eq(${i})`).html(hts)
+            });
+        }
+        function gen_agape16() {
+            var trs = ""
+            Object.keys(Agape16v).forEach(function (key, i) {
+                var ar = Agape16v[key]
+                trs += `<tr><td>${1 + i}</td><td><input type='checkbox'></input></td><td>${key}</td>`;
+                ar.forEach(function (val) {
+                    trs += `<td>${val}</td>`
+                })
+
+                trs += `<td>`
+                Agape16_cases.environ.forEach(function (val) {
+                    trs += `<input type='checkbox'>${val}</input>`
+                })
+                trs += `</td>`
+                trs += `</tr>`
+            });
+            $("#agape16").html(trs)
+        }
+    </script>
+    <script>
+        ////////////////
+        $(function () {
+
+
+            $("td").on("click", function () {
+                $(this).toggleClass("hiliTD")
+            })
+            $("tr").on("click", function () {
+                $(".hiliTR").removeClass("hiliTR")
+                $(this).addClass("hiliTR")
+                //
+                function get_pcnt(_this, clsname) {
+                    var pos_total = $(_this).find(clsname).find("input").length
+                    var pos_checked = $(clsname).find("input[type='checkbox']:checked").length
+                    return 100 * pos_checked / pos_total
+                }
+                var pos_val = get_pcnt(this, ".positive")
+                var neg_val = get_pcnt(this, ".negative")
+
+                $(this).find(".rangeinput").val(pos_val - neg_val)
+            })
+
+            //$("table").tablesorter()
+        })
+    </script>
+</head>
+
+<body>
+    <ol class="">
+        <li>
+            <a href="./family_missionary/chinese_charateristics/index.htm">chinese_charateristics</a>
+        </li>
+    </ol>
+
+</html>
