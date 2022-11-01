@@ -21,22 +21,30 @@ var ccahs27 =
     "思绪含混 intellectual turbidity": "make people comfusing in order to steal",
     "不紧不慢 the absence of nerves": "steal without noticing slowly.",
     "轻视外族 contempt for foreigners": "steal those who are stupid and careless",
-    "缺乏公心 the absence of public spirit": "",
-    "因循守旧 conservatism": "",
+    "缺乏公心 the absence of public spirit": "encourage to steal",
+    "因循守旧 conservatism": "a way of steal&nbsp;",
     "随遇而安 indifference to comfort and convenience": "flexible in steal, if can steal then do it, if not ok.",
-    "顽强生存 physical vitality": "for living",
-    "能忍且韧 patience and perseverance": "never change",
+    "顽强生存 physical vitality": "steal for living",
+    "能忍且韧 patience and perseverance": "steal never change",
     "知足常乐 content and cheerfulness": "flexible in stealing, if can steal then do it, if not ok",
-    "孝悌为先 filial piety": "pretend to be good.",
-    "仁爱之心 benevolence ": "",
-    "缺乏同情 the absence of sympathy": "",
+    "孝悌为先 filial piety": "steal method pretend to be good.",
+    "仁爱之心 benevolence ": "steal has no love",
+    "缺乏同情 the absence of sympathy": "without love, it cause steal.",
     "社会风波 social typhhoons": "",
-    "诛连守法 mutual responsibility and respect for law": "",
-    "相互猜疑 mutual suspicion": "",
-    "缺乏诚信 the absence of sinerity ": "",
-    "多元信仰 polytheism, pantheism, atheism.": "",
-    "中国的现实与时务 the real condition of China and her present needs": ""
+    "诛连守法 mutual responsibility and respect for law": "steal causes hatred",
+    "相互猜疑 mutual suspicion": "steal causes mutal suspicion",
+    "缺乏诚信 the absence of sinerity ": "steal leads to the absence of sinerity",
+    "多元信仰 polytheism, pantheism, atheism.": "steal religions to confuse people.",
+    "中国的现实与时务 the real condition of China and her present needs": "Jesus great commentiment."
 }
+
+
+
+
+
+
+
+
 
 var ccahs27_obj = {
     "保全面子 face": [""],
