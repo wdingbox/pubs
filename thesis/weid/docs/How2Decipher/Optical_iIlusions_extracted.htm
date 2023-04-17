@@ -1,0 +1,54 @@
+<base target="_blank">
+<style>
+    .optimg {
+        height: 100px;
+    }
+
+    table {
+        margin-bottom: 100px;
+    }
+</style>
+
+
+<script src="http://3.84.149.139/wdaws/bb/jq/jquery.js"></script>
+<script src="./Optical_iIlusions_extracted.json.js"></script>
+<script>
+
+    imgsrcObj;
+    $(() => {
+        var stb = "<table border='1'><thead><tr><td>#</td><td>img</td><td>txt</td><td>src</td></tr></thead><tbody>"
+        var idx = 0
+        for (let [src, str] of Object.entries(imgsrcObj)) {
+            var slid = str.indexOf("~~~")
+            if (slid < 0) slid = 0
+            var href = str.slice(slid+3)
+            var txt = str.slice(0, slid)
+
+            var sifrm=`<iframe width='1500' height='500' src='${href}'></iframe>`
+            stb += `<tr><td>${idx++}</td><td><img class='optimg' src='${src}'/></td><td><textarea id='inp' value='${txt}'>${txt}</textarea></td><td contenteditable><a href='${href}'>${href}</td><td>${sifrm}</td></tr>`
+        }
+        stb += "</tbody></table>"
+
+        $("body").append(stb)
+
+        var obj = {}
+        $("body").on("click", function () {
+            $("tbody tr").each(function () {
+                var src = $(this).find("td:eq(1)").find("img").attr("src")
+                var txt = $(this).find("td:eq(2)").find("textarea").val()
+                var hrf = $(this).find("td:eq(3)").text()
+                obj[src] = txt + "~~~" + hrf
+            })
+
+            var str = JSON.stringify(obj, null, 4)
+            $("#txa").val("var imgsrcObj =\n" + str)
+        })
+
+    })
+</script>
+
+<body>
+    <textarea id="txa">txa</textarea>
+    <hr /><br />
+
+</body>
