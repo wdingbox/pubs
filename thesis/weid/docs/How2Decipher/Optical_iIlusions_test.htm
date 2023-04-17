@@ -1,0 +1,61 @@
+<base target="_blank">
+<style>
+    .optimg {
+        height: 30px;
+    }
+
+    .optimg_Start {
+        height: 500px;
+    }
+
+    table {
+        margin-bottom: 100px;
+    }
+
+    #txa {
+        position: fixed;
+    }
+</style>
+
+
+<script src="http://3.84.149.139/wdaws/bb/jq/jquery.js"></script>
+<script src="./Optical_iIlusions_extracted.json.js"></script>
+<script>
+
+    imgsrcObj;
+    $(() => {
+        const DELIMER = "~~~"
+        var stb = "<table border='1'><thead><tr><td>#</td><td>img</td><td>txt</td><td>src</td></tr></thead><tbody>"
+        var idx = 0
+        var imgar = Object.keys(imgsrcObj)
+        for (let [src, ary] of Object.entries(imgsrcObj)) {
+            src = "Optical_iIlusions_imgs/" + src
+            var href = ary[2]
+            var txt = ary[1]
+            var tim = parseInt(ary[0])
+
+            idx++;
+
+            stb += `<tr><td>${idx}</td><td><img title='${src}' class='optimg' src='${src}'/></td><td><a id='inp' value='${txt}'>${txt}</a><br><a href='${href}'>answer..</a></td></tr>`
+        }
+        stb += "</tbody></table>"
+
+        $("body").append(stb)
+        $("img").on("click", function () {
+            $(".optimg_Start").removeClass("optimg_Start")
+            $(this).toggleClass("optimg_Start")
+        })
+
+        var obj = {}, GBG = "file:///Users/weiding/Sites/weidroot/weidroot_2017-01-06/app/github/wdingbox/pubs/thesis/weid/docs/How2Decipher/"
+        $("body").on("click", function () {
+
+        })
+
+    })
+</script>
+
+<body>
+
+
+
+</body>
