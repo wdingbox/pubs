@@ -18,23 +18,33 @@
     $(() => {
         var stb = "<table border='1'><thead><tr><td>#</td><td>img</td><td>txt</td><td>src</td></tr></thead><tbody>"
         var idx = 0
+        var imgar = Object.keys(imgsrcObj)
         for (let [src, str] of Object.entries(imgsrcObj)) {
             var slid = str.indexOf("~~~")
             if (slid < 0) slid = 0
-            var href = str.slice(slid+3)
+            var href = str.slice(slid + 3)
             var txt = str.slice(0, slid)
 
-            var sifrm=`<iframe width='1500' height='500' src='${href}'></iframe>`
-            stb += `<tr><td>${idx++}</td><td contenteditable><img class='optimg' src='${src}'/></td><td><textarea id='inp' value='${txt}'>${txt}</textarea><br><a href='${href}'>ref..</a></td><td ><a href='${href}'>${href}</a></td><td>${sifrm}</td></tr>`
+            idx++;
+            if (idx >= 12) {
+                //src = imgar[idx+1]
+            }
+
+            var sifrm = `<iframe width='1500' height='500' src='${href}'></iframe>`
+            stb += `<tr><td>${idx}</td><td contenteditable><img class='optimg' src='${src}'/></td><td><textarea id='inp' value='${txt}'>${txt}</textarea><br><a href='${href}'>ref..</a></td><td class='ahrf'><a href='${href}'>${href}</a></td><td>${sifrm}</td></tr>`
         }
         stb += "</tbody></table>"
 
         $("body").append(stb)
+        $(".ahrf").on("click", function () {
+            var hfs = $(this).text()
+            $(this).next().find("iframe").attr("src", hfs)
+        })
 
-        var obj = {}
+        var obj = {}, GBG = "file:///Users/weiding/Sites/weidroot/weidroot_2017-01-06/app/github/wdingbox/pubs/thesis/weid/docs/How2Decipher/"
         $("body").on("click", function () {
             $("tbody tr").each(function () {
-                var src = $(this).find("td:eq(1)").find("img").attr("src")
+                var src = $(this).find("td:eq(1)").find("img").attr("src").replace(GBG, "")
                 var txt = $(this).find("td:eq(2)").find("textarea").val()
                 var hrf = $(this).find("td:eq(3)").text()
                 obj[src] = txt + "~~~" + hrf
