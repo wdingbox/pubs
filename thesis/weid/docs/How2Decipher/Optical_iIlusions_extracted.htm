@@ -25,7 +25,7 @@
             var txt = str.slice(0, slid)
 
             var sifrm=`<iframe width='1500' height='500' src='${href}'></iframe>`
-            stb += `<tr><td>${idx++}</td><td><img class='optimg' src='${src}'/></td><td><textarea id='inp' value='${txt}'>${txt}</textarea></td><td contenteditable><a href='${href}'>${href}</td><td>${sifrm}</td></tr>`
+            stb += `<tr><td>${idx++}</td><td contenteditable><img class='optimg' src='${src}'/></td><td><textarea id='inp' value='${txt}'>${txt}</textarea><br><a href='${href}'>ref..</a></td><td ><a href='${href}'>${href}</a></td><td>${sifrm}</td></tr>`
         }
         stb += "</tbody></table>"
 
