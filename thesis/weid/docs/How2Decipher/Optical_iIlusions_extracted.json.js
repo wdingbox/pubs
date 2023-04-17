@@ -333,8 +333,8 @@ var imgsrcObj =
         "https://abmeyerwood.com/personality-test-what-you-see-first-reveals-your-level-of-self-confidence-do-you-trust-yourself/"
     ],
     "image070.png": [
-        60,
-        "",
-        ""
+        7,
+        "Optical Illusion Challenge: Only 1% of People with High IQ can find the second hidden animal within 7 seconds. Are you one of them?",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-challenge-can-you-find-second-hidden-animal-within-seven-seconds-1681558785-1"
     ]
 }
