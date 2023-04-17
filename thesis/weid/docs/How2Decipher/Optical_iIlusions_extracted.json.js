@@ -63,7 +63,7 @@ var imgsrcObj =
     "Optical_iIlusions_01.fld/image064.png": "~~~https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-spot-hidden-wolf-among-group-of-sheep-1676533147-1",
     "Optical_iIlusions_01.fld/image065.png": "~~~https://abmeyerwood.com/spot-the-difference-challenge-yourself-to-find-the-3-differences-only-20-complete-in-under-40-seconds/",
     "Optical_iIlusions_01.fld/image066.png": "~~~https://www.jagranjosh.com/general-knowledge/1880s-optical-illusion-test-spot-dog-hidden-inside-deers-vintage-sketch-1677746940-1",
-    "Optical_iIlusions_01.fld/image063.png": "~~~https://abmeyerwood.com/personality-test-the-animal-you-see-first-tells-us-if-you-are-utopian-or-realistic/",
-    "Optical_iIlusions_01.fld/image061.jpg": "~~~https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-only-a-genius-can-spot-hidden-newspaper-inside-public-park-1678341639-1",
-    "Optical_iIlusions_01.fld/image012.png": "~~~https://abmeyerwood.com/personality-test-what-you-see-first-reveals-your-level-of-self-confidence-do-you-trust-yourself/"
+    "Optical_iIlusions_01.fld/image067.png": "~~~https://abmeyerwood.com/personality-test-the-animal-you-see-first-tells-us-if-you-are-utopian-or-realistic/",
+    "Optical_iIlusions_01.fld/image068.png": "~~~https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-only-a-genius-can-spot-hidden-newspaper-inside-public-park-1678341639-1",
+    "Optical_iIlusions_01.fld/image069.png": "~~~https://abmeyerwood.com/personality-test-what-you-see-first-reveals-your-level-of-self-confidence-do-you-trust-yourself/"
 }
