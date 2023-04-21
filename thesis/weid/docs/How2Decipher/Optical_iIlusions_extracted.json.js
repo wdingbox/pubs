@@ -336,5 +336,10 @@ var imgsrcObj =
         7,
         "Optical Illusion Challenge: Only 1% of People with High IQ can find the second hidden animal within 7 seconds. Are you one of them?",
         "https://www.jagranjosh.com/general-knowledge/optical-illusion-challenge-can-you-find-second-hidden-animal-within-seven-seconds-1681558785-1"
+    ],
+    "image071.png":[
+        10,
+        "Personality test : what do you see first in this image ? Do you know that it gives us information about your character ? Find out!",
+        "https://www.kickstartmiddlebury.com/personality-test-what-do-you-see-first-in-this-image-do-you-know-that-it-gives-us-information-about-your-character-find-out/"
     ]
 }
