@@ -284,7 +284,7 @@ var imgsrcObj =
     ],
     "image058.png": [
         15,
-        "Optical Illusion to Test Your IQ: Only 2% can spot Man's hidden horse inside Vintage Picture in 15 secs!",
+        "Optical Illusion to Test Your IQ: Only 2% can spot Man&#39;s hidden horse inside Vintage Picture in 15 secs!",
         "https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-spot-hidden-horse-of-the-man-inside-vintage-picture-1675152168-1"
     ],
     "image059.png": [
@@ -309,7 +309,7 @@ var imgsrcObj =
     ],
     "image065.png": [
         3,
-        "Spot the difference: Challenge yourself to find the 3 differences â€“ Only 20% complete in under 40 seconds!",
+        "Spot the difference: Challenge yourself to find the 3 differences. Only 20% complete in under 40 seconds!",
         "https://abmeyerwood.com/spot-the-difference-challenge-yourself-to-find-the-3-differences-only-20-complete-in-under-40-seconds/"
     ],
     "image066.png": [
