@@ -341,5 +341,10 @@ var imgsrcObj =
         10,
         "Personality test : what do you see first in this image ? Do you know that it gives us information about your character ? Find out!",
         "https://www.kickstartmiddlebury.com/personality-test-what-do-you-see-first-in-this-image-do-you-know-that-it-gives-us-information-about-your-character-find-out/"
+    ],
+    "image072.png":[
+        21,
+        "Brain Teaser For IQ Test: Can You Find The Image of Odd Woman within 21 Seconds in the Picture? Try Your Luck!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-find-the-odd-image-within-21-seconds-1681811748-1"
     ]
 }

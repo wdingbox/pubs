@@ -1,7 +1,8 @@
 <base target="_blank">
 <style>
     .optimg {
-        height: 30px;
+        height: 12px;
+        border: 2px solid gray;
     }
 
     .optimg_Start {
@@ -14,6 +15,10 @@
 
     #txa {
         position: fixed;
+    }
+
+    .hili_td{
+        background-color: lightgray;
     }
 </style>
 
@@ -35,8 +40,12 @@
             var tim = parseInt(ary[0])
 
             idx++;
+            var sida = `${idx}_a`
+            var sidb = `${idx}_b`
+            var hili_a = localStorage.getItem(sida)
+            var hili_b = localStorage.getItem(sidb)
 
-            stb += `<tr><td>${idx}</td><td timelen='${tim}'>${tim}</td><td><img title='${src}' class='optimg' src='${src}'/><a id='testclock'>Click Icon To Start Test.</a><br/><a id='inp' value='${txt}'>${txt}</a><br><a href='${href}'>answer..</a></td></tr>`
+            stb += `<tr><td class='hiliable ${hili_a}' hilidx='${idx}_a'>${idx}</td><td class='hiliable ${hili_b}' hilidx='${idx}_b' timelen='${tim}'>${tim}</td><td><img title='${src}' class='optimg' src='${src}'/><a id='testclock'>Click Icon To Start Test.</a><br/><a id='inp' value='${txt}'>${txt}</a><br><a href='${href}'>answer..</a></td></tr>`
         }
         stb += "</tbody></table>"
         //var str = JSON.stringify(imgsrcObj, null, 4)
@@ -64,6 +73,13 @@
                 }
             }, 1000)
 
+        })
+
+        $(".hiliable").on("click",function(){
+            $(this).toggleClass("hili_td")
+            var sid = $(this).attr("hilidx")
+            var hasHili = $(this).hasClass("hili_td")?"hili_td":''
+            localStorage.setItem(sid, hasHili)
         })
 
         var obj = {}, GBG = "file:///Users/weiding/Sites/weidroot/weidroot_2017-01-06/app/github/wdingbox/pubs/thesis/weid/docs/How2Decipher/"
