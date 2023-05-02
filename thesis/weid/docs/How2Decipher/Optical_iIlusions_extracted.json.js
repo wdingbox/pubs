@@ -1,5 +1,6 @@
 //1880s Vintage Optical Illusion to Test Your Brain: Can you spot the Girl's face hidden in the Rose in 20 Seconds
 
+// SRC=./Optical_iIlusions_imgs/
 var imgsrcObj =
 {
     "image001.png": [
@@ -346,5 +347,10 @@ var imgsrcObj =
         21,
         "Brain Teaser For IQ Test: Can You Find The Image of Odd Woman within 21 Seconds in the Picture? Try Your Luck!",
         "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-find-the-odd-image-within-21-seconds-1681811748-1"
+    ],
+    "image073.png":[
+        4,
+        "Only someone with high IQ can spot the mistake in the desert picture within 4 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/only-someone-with-high-iq-can-spot-the-mistake-in-the-desert-picture-within-4-seconds-in-this-brain-teaser-1683025358-1"
     ]
 }
