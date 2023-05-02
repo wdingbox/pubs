@@ -352,5 +352,10 @@ var imgsrcObj =
         4,
         "Only someone with high IQ can spot the mistake in the desert picture within 4 seconds!",
         "https://www.jagranjosh.com/general-knowledge/only-someone-with-high-iq-can-spot-the-mistake-in-the-desert-picture-within-4-seconds-in-this-brain-teaser-1683025358-1"
+    ],
+    "image074.png":[
+        21,
+        "IQ Test with Brain Teaser: Can you spot 5 Hidden Words related to Gardening inside picture in 21 secs?",
+        "https://www.jagranjosh.com/general-knowledge/iq-test-with-brain-teaser-can-you-spot-5-hidden-words-related-to-gardening-in-picture-1683014219-1?amp_js_v=a6&amp_gsa=1&usqp=mq331AQGsAEggAID"
     ]
 }
