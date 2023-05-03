@@ -403,4 +403,49 @@ var imgsrcObj =
         "Brain Teaser For IQ Test: Can You Find The Mistake In The Date Night Dinner Picture Within 6 Seconds? Try Your Luck!",
         "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-find-the-hidden-mistake-in-six-seconds-1682574379-1"
     ],
+    "image081.png":[
+        30,
+        "Brain Teaser IQ Test: Only A Superhuman Can Connect The Nine Dots With Four Straight Lines in 30 Seconds!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-only-a-superhuman-can-connect-the-nine-dots-with-four-straight-lines-in-30-seconds-1682824371-1"
+    ],
+    "image082.png":[
+        0,
+        "Only 1% of observant people can spot one difference between the Mona Lisa painting images in 10 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/only-1-precent-of-observant-people-can-spot-one-difference-between-the-mona-lisa-painting-images-in-10-seconds-1683031503-1"
+    ],
+    "image083.png":[
+        12,
+        "Optical Illusion IQ Test: Spot 4 hidden faces in 12 seconds",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-only-people-with-really-sharp-eyes-can-spot-the-4-faces-hidden-among-the-flowers-in-12-seconds-1682941493-1?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID"
+    ],
+    "image084.png":[
+        4,
+        "Optical Illusion - Find Fish in the Garden in 4 Seconds",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-you-have-sharp-eyes-if-you-can-spot-a-fish-in-the-garden-in-4-seconds-1682920656-1?amp_js_v=a6&amp_gsa=1&usqp=mq331AQGsAEggAID"
+    ],
+    "image085.png":[
+        60,
+        "Personality Test: First Image you see in the Optical Illusion reveals your Best Traits!",
+        "https://www.jagranjosh.com/general-knowledge/personality-test-first-image-you-see-in-the-optical-illusion-reveals-your-best-traits-1682867001-1?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID"
+    ],
+    "image086.png":[
+        60,
+        "Optical Illusion to Test Your Personality: First Image you see in the picture reveals your Positive Traits!",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-personality-test-first-image-you-see-in-the-picture-reveals-your-positive-traits-1682513552-1"
+    ],
+    "image087.png":[
+        7,
+        "Optical Illusion - How many Arrows can you Spot in 7 Seconds?",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-how-many-arrows-can-you-spot-in-7-seconds-1683036568-1?ref=footer_reco"
+    ],
+    "image088.png":[
+        9,
+        "Spot the Difference: Only highly intelligent individuals can spot 3 differences in 9 seconds. Can you?",
+        "https://www.jagranjosh.com/general-knowledge/only-highly-intelligent-individuals-can-spot-3-differences-in-9-seconds-can-you-1683011131-1"
+    ],
+    "image089.png":[
+        11,
+        "Brain Teaser For IQ Test: Can You Spot The Image Of An Odd Alien Hidden In The Picture Within 11 Seconds? Try Your Skills!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-spot-odd-alien-within-11-seconds-1682921530-1"
+    ]
 }
