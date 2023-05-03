@@ -63,6 +63,11 @@ var imgsrcObj =
         "Brain Teaser for Testing Your IQ: Identify who is from future in 1970s picture within 9 secs!",
         "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-identify-who-is-from-future-in-1970s-picture-1663328461-1"
     ],
+    "image013.png": [
+        7,
+        "",
+        ""
+    ],
     "image014.png": [
         7,
         "Brain Teaser for Testing Your IQ: Spot mistake in Picture where kids are playing in snow within 7 secs!",
@@ -298,10 +303,20 @@ var imgsrcObj =
         "Want To Know How Good Your Eyesight Is? Try to Guess The Number Of Ducks In This Optical Illusion",
         "https://www.fresherslive.com/latest/articles/want-to-know-how-good-your-eyesight-is-try-guess-the-number-of-ducks-in-this-optical-illusion-10009780"
     ],
+    "image061.png": [
+        0,
+        "",
+        ""
+    ],
     "image062.png": [
         8,
         "Optical Illusion Challenge: Can you spot the hidden hippo in the image in 8 seconds?",
         "https://www.jagranjosh.com/general-knowledge/optical-illusion-challenge-can-you-spot-the-hidden-hippo-in-the-image-in-8-seconds-1676635296-1"
+    ],
+    "image063.png": [
+        0,
+        "",
+        ""
     ],
     "image064.png": [
         5,
@@ -357,5 +372,35 @@ var imgsrcObj =
         21,
         "IQ Test with Brain Teaser: Can you spot 5 Hidden Words related to Gardening inside picture in 21 secs?",
         "https://www.jagranjosh.com/general-knowledge/iq-test-with-brain-teaser-can-you-spot-5-hidden-words-related-to-gardening-in-picture-1683014219-1?amp_js_v=a6&amp_gsa=1&usqp=mq331AQGsAEggAID"
-    ]
+    ],
+    "image075.png":[
+        60,
+        "Puzzle for IQ Test: Only Detective Brains can spot the Murderer in the Sauna!",
+        "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-only-detective-brains-can-spot-the-murderer-in-sauna-1683033402-1"
+    ],
+    "image076.png":[
+        9,
+        "Brain Teaser for IQ Test: Can you spot the Hidden I among Js in the picture within 9 secs?",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-spot-the-hidden-i-among-js-in-picture-1682585286-1"
+    ],
+    "image077.png":[
+        60,
+        "Puzzle for IQ Test: Only a sharp can spot who is the Real Artist of the Painting in the picture!",
+        "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-only-a-sharp-brain-can-spot-who-is-the-real-artist-of-painting-in-picture-1682595363-1?usqp=mq331AQGsAEggAID&amp_kit=1"
+    ],
+    "image078.png":[
+        6,
+        "Optical Illusion - Find Hidden Elephant in the Jungle in 6 Seconds",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-you-have-the-eyes-of-a-hawk-if-you-can-spot-the-hidden-elephant-in-the-jungle-in-6-seconds-1683014780-1?amp_js_v=a6&amp_gsa=1&usqp=mq331AQGsAEggAID"
+    ],
+    "image079.png":[
+        9,
+        "Optical Illusion: Only 2 out of 10 people can spot the hidden lions in 9 seconds. Are you one of them?",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-only-2-out-of-10-people-can-spot-the-hidden-lions-in-9-seconds-1682771961-1"
+    ],
+    "image080.png":[
+        6,
+        "Brain Teaser For IQ Test: Can You Find The Mistake In The Date Night Dinner Picture Within 6 Seconds? Try Your Luck!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-find-the-hidden-mistake-in-six-seconds-1682574379-1"
+    ],
 }
