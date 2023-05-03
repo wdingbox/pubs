@@ -65,8 +65,8 @@ var imgsrcObj =
     ],
     "image013.png": [
         7,
-        "",
-        ""
+        "Brain Teaser for IQ Test: Can you spot the Hidden F Among Es in the picture within 11 secs?",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-spot-the-hidden-f-among-es-in-picture-1681470169-1"
     ],
     "image014.png": [
         7,
@@ -304,9 +304,9 @@ var imgsrcObj =
         "https://www.fresherslive.com/latest/articles/want-to-know-how-good-your-eyesight-is-try-guess-the-number-of-ducks-in-this-optical-illusion-10009780"
     ],
     "image061.png": [
-        0,
-        "",
-        ""
+        5,
+        "Brain Teaser for IQ Test: Can you spot the mistake in Basketball Match Picture in 5 secs?",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-can-you-spot-the-mistake-in-basketball-match-picture-1682862741-1?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID"
     ],
     "image062.png": [
         8,
@@ -315,8 +315,8 @@ var imgsrcObj =
     ],
     "image063.png": [
         0,
-        "",
-        ""
+        "Brain Teaser For IQ Test: Can You Spot The Odd Letter Among The Fs within 3 Seconds? It’s A Dare!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-spot-odd-letter-within-three-seconds-1682967950-1"
     ],
     "image064.png": [
         5,
