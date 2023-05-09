@@ -447,5 +447,118 @@ var imgsrcObj =
         11,
         "Brain Teaser For IQ Test: Can You Spot The Image Of An Odd Alien Hidden In The Picture Within 11 Seconds? Try Your Skills!",
         "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-spot-odd-alien-within-11-seconds-1682921530-1"
+    ],
+    "image090.png":[
+        35,
+        "Brain teaser : test your IQ and find the missing number in 35 seconds max !",
+        "https://www.kickstartmiddlebury.com/brain-teaser-test-your-iq-and-find-the-missing-number-in-35-seconds-max/"
+    ],
+    "image091.png":[
+        20,
+        `IQ test: put your brain to the test and see if you can crack the code in 20 seconds max!<br>
+        To find the correct 3-digit code, you have to be attentive and focus carefully. The colored dots placed after each combination of 3 numbers is like playing mastermind.
+        A black dot indicates that one of the numbers is not present, a yellow dot shows that one of the numbers is present but not in the right box and a green dot reveals that one of the numbers is present in the right box.
+        Keep in mind that the colored dots are not arranged in order. This challenge is of a medium level as indicated by the difficulty slider positioned in the image.`,
+        "https://www.kickstartmiddlebury.com/iq-test-put-your-brain-to-the-test-and-see-if-you-can-crack-the-code-in-20-seconds-max/"
+    ],
+    "image092.png":[
+        15,
+        "A tough observation challenge for geniuses – Can you find 3 differences in 15 seconds?",
+        "https://www.kickstartmiddlebury.com/a-tough-observation-challenge-for-geniuses-can-you-find-3-differences-in-15-seconds/2/"
+    ],
+    "image093.png":[
+        25,
+        `Brain teaser: can you crack the code in 25 seconds and beat the clock?<br>
+        To find the correct 3-digit code, you have to be attentive and focus carefully. The colored dots placed after each combination of 3 numbers is like playing mastermind.
+        A black dot indicates that one of the numbers is not present, a yellow dot shows that one of the numbers is present but not in the right box and a green dot reveals that one of the numbers is present in the right box.
+        Keep in mind that the colored dots are not arranged in order. This challenge is of a medium level as indicated by the difficulty slider positioned in the image.`,,
+        "https://www.kickstartmiddlebury.com/brain-teaser-can-you-crack-the-code-in-25-seconds-and-beat-the-clock/"
+    ],
+    "image094.png":[
+        6,
+        "Brain Teaser- Spot the sleeping sheep in 6 seconds",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-only-someone-with-a-detectives-brain-can-spot-the-sleeping-sheep-in-the-herd-in-6-seconds-1682666647-1"
+    ],
+    "image095.png":[
+        5,
+        "Puzzle IQ Test: Only a Sharp Brain can spot how many People went Camping inside picture in 5 secs!",
+        "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-only-a-sharp-brain-can-spot-how-many-people-went-camping-in-picture-1683275818-1"
+    ],
+    "image096.png":[
+        18,
+        "Do You Have Enough Common Sense To Spot The Mistake In This Snow Trekking Picture? You Have 18 Seconds!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-spot-a-mistake-within-eighteen-seconds-1683090666-1"
+    ],
+    "image097.png":[
+        15,
+        "Can you find the weight of cat, dog, and rabbit in 15 seconds? Test your IQ!",
+        "https://www.jagranjosh.com/general-knowledge/can-you-find-the-weight-of-cat-dog-and-rabbit-in-15-seconds-1683094731-1?ref=amp_rel_stories"
+    ],
+    "image098.png":[
+        5,
+        "Brain Teaser to Test Your IQ: Can you spot the mistake inside Pine Forest picture in 5 secs?",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-to-test-your-iq-can-you-spot-the-mistake-inside-pine-forest-picture-1683199234-1"
+    ],
+    "image099.png":[
+        19,
+        "Brain Teaser For IQ Test: Can You Find All 4 Mistakes In The City Street Picture Within 19 Seconds? Try Your Luck!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-iq-test-can-you-mistake-within-19-seconds-1683218590-1?ref=amp_rel_stories"
+    ],
+    "image100.png":[
+        15,
+        "Only the most attentive can count the number of people in this old painting in 15 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-challenge-only-the-most-attentive-can-count-the-number-of-people-in-this-old-painting-in-15-seconds-1683285977-1?ref=amp_rel_stories"
+    ],
+    "image101.png":[
+        9,
+        "Viral Brain Teaser: Only 1 out of 10 can find out what is wrong at Tom’s 5th birthday party. Only 9 seconds left!",
+        "https://www.jagranjosh.com/general-knowledge/viral-brain-teaser-can-you-find-mistake-in-birthday-picture-within-5-seconds-1683268017-1"
+    ],
+    "image102.png":[
+        5,
+        "Optical Illusion: 97% of people will fail to spot a woman in 5 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-97-of-people-will-fail-to-spot-a-woman-in-5-seconds-1683198376-1"
+    ],
+    "image103.png":[
+        5,
+        "Optical Illusion: Can you spot the hidden number in 5 seconds?",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-can-you-spot-the-hidden-number-in-5-seconds-1683112432-1?ref=amp_rel_stories"
+    ],
+    "image104.png":[
+        4,
+        "Seek and Find Puzzle: Can you find what's wrong with the clock in 4 seconds?",
+        "https://www.jagranjosh.com/general-knowledge/seek-and-find-puzzle-can-you-spot-the-mistake-in-the-clock-in-4-seconds-1683118635-1?ref=amp_rel_stories"
+    ],
+    "image105.png":[
+        13,
+        "Spot the Difference: Only highly intelligent people can spot 5 differences in 13 seconds. Are you one of them?",
+        "https://www.jagranjosh.com/general-knowledge/spot-the-difference-only-highly-intelligent-people-can-spot-5-differences-in-13-seconds-are-you-one-of-them-1683183998-1?ref=amp_rel_stories"
+    ],
+    "image106.png":[
+        11,
+        "Puzzle IQ Test: Spot in which Direction will Wheel B move if A moves Anti-clockwise in 11 secs!",
+        "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-spot-in-which-direction-will-wheel-b-move-if-a-moves-anti-clockwise-1683187289-1"
+
+    ],
+    "image107.png":[
+        37,
+        "Word Search Puzzle: Only geniuses can spot 7 words in the image within 37 seconds. Are you one of them?",
+        "https://www.jagranjosh.com/general-knowledge/word-search-puzzle-only-a-genius-can-spot-7-words-in-the-image-within-37-seconds-are-you-one-of-them-1683115697-1"
+    ],
+    "image108.png":[
+        15,
+        "Spot the Difference: Can you spot 5 differences in the pictures of a fishing penguin in 15 seconds?",
+        "https://www.jagranjosh.com/general-knowledge/spot-the-difference-can-you-spot-5-differences-in-the-pictures-of-a-fishing-penguin-in-15-seconds-1683289705-1"
+    ],
+    "image109.png":[
+        20,
+        "99% of people have failed to spot 5 differences in the painting pictures in 20 seconds. Will you?",
+        "https://www.jagranjosh.com/general-knowledge/99-percent-of-people-have-failed-to-spot-5-differences-in-the-painting-pictures-in-20-seconds-1683111423-1"
+    ],
+    "image110.png":[
+        7,
+        "Only creative thinkers can see which string leads to banana in 7 seconds",
+        "https://www.mirror.co.uk/news/weird-news/only-creative-thinkers-can-see-29898353"
     ]
+
 }
