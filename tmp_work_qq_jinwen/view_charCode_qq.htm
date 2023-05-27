@@ -1,0 +1,30 @@
+<html>
+    <header>
+        <script src="./jq/jquery.js"></script>
+        <script src="./chn_charCode_qq.json.js"></script>
+        <script>
+            $(()=>{
+                gen_tab()
+            })
+            function gen_tab(){
+                var trs=""
+                chn_charCode_qq.forEach(function(cod,idx){
+                    var src=`./qq_jinwen/${cod}.png`
+                    var char = String.fromCharCode(cod)
+                    trs+=`<tr><td>${idx}</td><td>${cod}</td><td>${char}</td><td><img src='${src}'/></td><tr>`
+                })
+                $("#tb tbody").html(trs)
+
+            }
+        </script>
+    </header>
+    <body>
+        <a href="../../../../jinwen_tmp/丕纰砒邳铍皮疲啤脾.html"></a>
+        <table border="1" id="tb">
+            <tbody>
+
+            </tbody>
+        </table>
+        <textarea id="txa"></textarea>
+    </body>
+</html>
