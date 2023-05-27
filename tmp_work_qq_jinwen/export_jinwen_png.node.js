@@ -104,13 +104,20 @@ function export_jinwen(targetdir) {
         //console.log(fnames)
         fnames.forEach(function (fn, idx) {
             var cod = chars.charCodeAt(idx)
-            if('NaN' == cod) {
+            if ('NaN' == cod || NaN === cod || fn === 'NaN') {
                 console.log("****************")
-                console.log(chars, idx, cod )
+                console.log(chars, idx, cod)
             }
             var srcfile = `${targetdir}/${dirname}/${fn}`
             var desfile = `./qq_jinwen/${cod}.png`
             //console.log(idx, cod, fn, srcfile, desfile)
+            if (srcfile.indexOf("NaN") >= 0) console.log("s", srcfile)
+            if (desfile.indexOf("NaN") >= 0) {
+                console.log("d", desfile)
+                console.log(cod, chars, idx)
+                console.log(fn)
+                console.log(dirname)
+            }
 
             fs.copyFileSync(srcfile, desfile)
         })
