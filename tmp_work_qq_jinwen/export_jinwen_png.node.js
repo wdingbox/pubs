@@ -96,6 +96,7 @@ function watch_dir(cbf) {
 
 function export_jinwen(targetdir) {
     var dirs = DirFileUti.getDirectories(targetdir).filter(dir => dir.length > 4)
+    var charCodeObj={}
     dirs.forEach(function (dirname) {
         var chars = dirname.slice(0, -6)
         //console.log(chars)
@@ -104,10 +105,8 @@ function export_jinwen(targetdir) {
         //console.log(fnames)
         fnames.forEach(function (fn, idx) {
             var cod = chars.charCodeAt(idx)
-            if ('NaN' == cod || NaN === cod || fn === 'NaN') {
-                console.log("****************")
-                console.log(chars, idx, cod)
-            }
+            charCodeObj[cod] = chars[idx]
+            
             var srcfile = `${targetdir}/${dirname}/${fn}`
             var desfile = `./qq_jinwen/${cod}.png`
             //console.log(idx, cod, fn, srcfile, desfile)
@@ -122,6 +121,8 @@ function export_jinwen(targetdir) {
             fs.copyFileSync(srcfile, desfile)
         })
     })
+    var str = JSON.stringify(charCodeObj, null, 4)
+    fs.writeFileSync("chn_charCode_qq.json.js", "var chn_charCode_qq =\n" + str, "utf8")
 }
 function view_jinwen(targetdir) {
     var dirs = DirFileUti.getPathfiles(targetdir).map(fn => fn = fn.slice(0, -4))
@@ -132,4 +133,4 @@ function view_jinwen(targetdir) {
     fs.writeFileSync("chn_charCode_qq.json.js", "var chn_charCode_qq =\n" + str, "utf8")
 }
 export_jinwen("../../../../jinwen_tmp/")
-view_jinwen("./qq_jinwen")
+//view_jinwen("./qq_jinwen")
