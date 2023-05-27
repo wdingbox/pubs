@@ -98,13 +98,13 @@ function export_jinwen(targetdir) {
     var dirs = DirFileUti.getDirectories(targetdir).filter(dir => dir.length > 4)
     dirs.forEach(function (dirname) {
         var chars = dirname.slice(0, -6)
-        console.log(chars)
+        //console.log(chars)
         //ar ext = path.extname('/Users/Refsnes/demo_path.js');
         var fnames = DirFileUti.getPathfiles(`${targetdir}/${dirname}`).filter(fn => path.extname(fn) === ".png")
         //console.log(fnames)
         fnames.forEach(function (fn, idx) {
             var cod = chars.charCodeAt(idx)
-            if(NaN == cod) {
+            if('NaN' == cod) {
                 console.log("****************")
                 console.log(chars, idx, cod )
             }
@@ -119,7 +119,7 @@ function export_jinwen(targetdir) {
 function view_jinwen(targetdir) {
     var dirs = DirFileUti.getPathfiles(targetdir).map(fn => fn = fn.slice(0, -4))
     dirs.forEach(function (fname) {
-        console.log(fname)
+        //console.log(fname)
     })
     var str = JSON.stringify(dirs, null, 4)
     fs.writeFileSync("chn_charCode_qq.json.js", "var chn_charCode_qq =\n" + str, "utf8")
