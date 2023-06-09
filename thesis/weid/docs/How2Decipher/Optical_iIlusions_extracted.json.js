@@ -559,6 +559,16 @@ var imgsrcObj =
         7,
         "Only creative thinkers can see which string leads to banana in 7 seconds",
         "https://www.mirror.co.uk/news/weird-news/only-creative-thinkers-can-see-29898353"
-    ]
+    ],
+    "image111.png":[
+        33,
+        "Brain Teaser IQ Test: Only One As Smart As A Whip Can Find The Object With No Match On Breakfast Table. 33 Seconds Left!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-can-you-find-object-with-no-match-within-33-seconds-1685681816-1"
+    ],
+    "image112.png":[
+        60,
+        "Brain Teaser IQ Test: Can you find two errors in the picture exhibited in China Art Museum (2023)?",
+        "./?The Traditonal and simplifed in history"
+    ],
 
 }
