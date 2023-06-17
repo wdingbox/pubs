@@ -571,4 +571,25 @@ var imgsrcObj =
         "./?The Traditonal and simplifed in history"
     ],
 
+    "image113.png":[
+        30,
+        "Do you have a genius IQ? Test it with the elusive dog and master optical illusion brain teaser!",
+        "https://www.cramcvet.com/do-you-have-a-genius-iq-test-it-with-the-elusive-dog-and-master-optical-illusion-brain-teaser/"
+    ],
+    "image114.png":[
+        "5",
+        "Find the hidden word in 5 seconds: can you beat the animal image challenge?",
+        "https://www.cramcvet.com/find-the-hidden-word-in-5-seconds-can-you-beat-the-animal-image-challenge/"
+    ],
+    "image115.png":[
+        60,
+        "Animal instincts personality test: what the type of animal you see first in this image says about you!",
+        "https://www.cramcvet.com/animal-instincts-personality-test-what-the-type-of-animal-you-see-first-in-this-image-says-about-you/"
+    ],
+    "image116.png":[
+        60,
+        "Find OBC in picture!",
+        "./?Ya3_or_Cross"
+    ]
+
 }
