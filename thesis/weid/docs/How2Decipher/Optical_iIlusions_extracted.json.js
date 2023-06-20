@@ -3,6 +3,11 @@
 // SRC=./Optical_iIlusions_imgs/
 var imgsrcObj =
 {
+    "image000.png":[
+        20,
+        "Find out: My wife and my mother-in-law",
+        "https://www.zazzle.ca/my_wife_my_mother_in_law_gestalt_illusion_poster-228066678365351399"
+    ],
     "image001.png": [
         13,
         "Brain Teaser for IQ Test: Can you spot the Slipper with no pair in picture within 13 secs?",
@@ -590,6 +595,36 @@ var imgsrcObj =
         60,
         "Find OBC in picture!",
         "./?Ya3_or_Cross"
+    ],
+    "image117.png":[
+        5,
+        "Only the Best can Find the Mistake in the Club Picture in 5 Seconds!",
+        "https://www.jagranjosh.com/general-knowledge/only-the-best-can-find-the-mistake-in-the-club-picture-in-5-seconds-1686657168-1"
+    ],
+    "image118.png":[
+        3,
+        "Tricky Puzzle IQ Test: There is a mistake in this living room, only ‘geniuses’ can spot it in 3 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-find-the-mistake-1686820016-1?ref=amp_rel_stories"
+    ],
+    "image119.png":[
+        8,
+        "You have a superior IQ than 97% of people if you can identify the thief in 8 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-puzzle-find-thief-in-8-seconds-1686836935-1"
+    ],
+    "image120.png":[
+        "10",
+        "Optical Illusion IQ Test: Only highly intelligent people can find all 13 hidden animals in 10 seconds? ",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-find-hidden-animals-1686906990-1"
+    ],
+    "image121.png":[
+        10,
+        "Optical Illusions Challenge: Can You Stop This Spinning Image In 10 Seconds? ",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-challenge-stop-this-spinning-image-1686745946-1"
+    ],
+    "image122.png":[
+        5,
+        "Picture Puzzle IQ Test: Only super dads can spot the real father in 5 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/puzzles-iq-test-who-is-the-father-1687077911-1"
     ]
 
 }
