@@ -625,6 +625,42 @@ var imgsrcObj =
         5,
         "Picture Puzzle IQ Test: Only super dads can spot the real father in 5 seconds!",
         "https://www.jagranjosh.com/general-knowledge/puzzles-iq-test-who-is-the-father-1687077911-1"
+    ],
+    "image123.png":[
+        60,
+        "Shifty eye movements behind famous optical illusion",
+        "https://www.newscientist.com/article/dn14788-shifty-eye-movements-behind-famous-optical-illusion/"
+    ],
+    "image124.png":[
+        7,
+        "Find 3 Mistakes in 7 Seconds",
+        "https://www.jagranjosh.com/general-knowledge/find-3-mistakes-in-7-seconds-1687173650-1?ref=amp_rel_stories"
+    ],
+    "image125.png":[
+        9,
+        "Optical Illusion- Find 3 daughters of the man in 9 seconds ",
+        "https://www.jagranjosh.com/general-knowledge/only-the-sharpest-eyed-people-can-find-3-daughters-of-the-man-hidden-in-the-picture-1687413817-1"
+    ],
+    "image126.png":[
+        9,
+        "Only 2% High IQ People Can Spot The Hidden Woman In 5 Secs, Can you?",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-find-hidden-woman-1687341251-1"
+    ],
+    "image127.png":[
+        24,
+        "Spot 8 differences in 24 seconds",
+        "https://www.jagranjosh.com/general-knowledge/only-the-top-2-percent-can-spot-8-differences-in-the-tortoise-picture-in-24-seconds-1687440859-1"
+    ],
+    "image128.png":[
+        60,
+        "Put your detective skills to test and spot the hitman in the vintage picture before it’s too late!",
+        "https://www.jagranjosh.com/general-knowledge/put-your-detective-skills-to-test-and-spot-the-hitman-in-the-vintage-picture-before-it-is-too-late-1687355810-1"
+    ],
+    "image129.png":[
+        19,
+        "Picture Puzzle - Find 11 Squares in 19 Seconds",
+        "https://www.jagranjosh.com/general-knowledge/find-11-squares-in-19-seconds-1687248031-1"
     ]
+    
 
 }
