@@ -660,6 +660,16 @@ var imgsrcObj =
         19,
         "Picture Puzzle - Find 11 Squares in 19 Seconds",
         "https://www.jagranjosh.com/general-knowledge/find-11-squares-in-19-seconds-1687248031-1"
+    ],
+    "image130.png":[
+        60,
+        "Find OBC",
+        ""
+    ],
+    "image131.png":[
+        60,
+        "Find OBC",
+        ""
     ]
     
 
