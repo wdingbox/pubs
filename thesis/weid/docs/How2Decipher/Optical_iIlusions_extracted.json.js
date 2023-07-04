@@ -670,7 +670,12 @@ var imgsrcObj =
         60,
         "Find OBC",
         ""
-    ]
+    ],
+    "image132.png":[
+        7,
+        "Test your brainpower: can you spot the identical pair of pandas in less than 7 seconds? Only 6% of people can beat this brain teaser challenge!",
+        "https://www.cramcvet.com/test-your-brainpower-can-you-spot-the-identical-pair-of-pandas-in-less-than-7-seconds-only-6-of-people-can-beat-this-brain-teaser-challenge/"
+    ],
     
 
 }
