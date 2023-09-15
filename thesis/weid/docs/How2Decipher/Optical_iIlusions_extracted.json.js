@@ -676,6 +676,26 @@ var imgsrcObj =
         "Test your brainpower: can you spot the identical pair of pandas in less than 7 seconds? Only 6% of people can beat this brain teaser challenge!",
         "https://www.cramcvet.com/test-your-brainpower-can-you-spot-the-identical-pair-of-pandas-in-less-than-7-seconds-only-6-of-people-can-beat-this-brain-teaser-challenge/"
     ],
+    "image133.png":[
+        23,
+        "FACING FACTS You have a high IQ if you can spot all nine faces in this optical illusion in 23 seconds",
+        "https://www.the-sun.com/news/9092999/high-iq-can-spot-ten-faces-optical-illusion/"
+    ],
+    "image134.png":[
+        70,
+        "Puzzle for IQ Test: Only Smart Brains can spot who is the Alien inside the Restaurant Picture!",
+        "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-only-smart-brains-can-spot-who-is-the-alien-inside-restaurant-picture-1694504875-1"
+    ],
+    "image135.png":[
+        15,
+        "Puzzle IQ Test: Find 6 Hidden Words In The Picture In 15 Seconds!",
+        "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-find-six-hidden-words-1694536308-1"
+    ],
+    "image136.png":[
+        60,
+        "Find out Chinese Characters",
+        ""
+    ],
     
 
 }
