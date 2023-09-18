@@ -694,8 +694,28 @@ var imgsrcObj =
     "image136.png":[
         60,
         "Find out Chinese Characters",
-        ""
+        "./"
     ],
-    
+    "image137.png":[
+        10,
+        "Can you find the passport hidden among the holiday essentials?",
+        "https://www.the-sun.com/lifestyle/9096963/optical-illusion-passport-travel-essentials-seconds/"
+    ],
+    "image138.png":[
+        15,
+        "Visual test: Find the hat hidden in this room in 15 seconds!",
+        "https://www.knothouseyarns.com/visual-test-find-the-hat-hidden-in-this-room-in-15-seconds/"
+    ],
+    "image139.png":[
+        30,
+        "Visual test: 3 bottles have no corks in this sequence of images. You have to find them in 30 seconds.",
+        "https://www.knothouseyarns.com/visual-test-3-bottles-have-no-corks-in-this-sequence-of-images-you-have-to-find-them-in-30-seconds/"
+    ],
+    "image140.png":[
+        60,
+        "1 Minute Brain Teaser: Find the Mistake in the Happy Couple Picture",
+        "https://www.jagranjosh.com/general-knowledge/one-minute-brain-teaser-find-the-mistake-in-the-couple-picture-1694495559-1"
+
+    ]
 
 }
