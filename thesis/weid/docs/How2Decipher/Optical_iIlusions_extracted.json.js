@@ -721,6 +721,26 @@ var imgsrcObj =
         10,
         "find the problem in the picture.",
         "https://infinitesmilesga.com/meet-our-team/matthew-katz-dmd/"
+    ],
+    "image142.png":[
+        6,
+        "You have great attention span if you can find the hat in the bathroom in 6 seconds.",
+        "https://www.jagranjosh.com/general-knowledge/find-the-hat-in-the-bathroom-in-6-seconds-1695107574-1"
+    ],
+    "image143.png":[
+        6,
+        "Only a mastermind can spot the woman's husband in the image within 6 seconds.",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-spot-the-womans-husband-in-the-image-within-6-seconds-1695278452-1"
+    ],
+    "image144.png":[
+        60,
+        "Optical Illusion for IQ Test: Only 1% Can Spot the Sailor's Wife in this Vintage Picture!",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-spot-sailors-wife-inside-the-vintage-picture-1695209986-1"
+    ],
+    "image145.png":[
+        5,
+        "Brain Teaser for Geniuses: Find the mistake in the picture in 5 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-geniuses-find-the-mistake-in-the-picture-in-5-seconds-1695301892-1"
     ]
 
 }
