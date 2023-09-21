@@ -716,6 +716,11 @@ var imgsrcObj =
         "1 Minute Brain Teaser: Find the Mistake in the Happy Couple Picture",
         "https://www.jagranjosh.com/general-knowledge/one-minute-brain-teaser-find-the-mistake-in-the-couple-picture-1694495559-1"
 
+    ],
+    "image141.png":[
+        10,
+        "find the problem in the picture.",
+        "https://infinitesmilesga.com/meet-our-team/matthew-katz-dmd/"
     ]
 
 }
