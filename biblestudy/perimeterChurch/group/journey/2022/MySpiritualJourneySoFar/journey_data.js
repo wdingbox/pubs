@@ -1,7 +1,6 @@
 
 
-var journey_data =
-{
+var journey_data ={
     "1964": [
         "0.0",
         "Born in Beijing Xuanwu Hospital in 1964, which is close to The Xuanwu Gate Catholic Church that was built by Matteo Ricci in 1605. (http://oa.upm.es/33835/1/SHAN_HUANG.pdf).  Visited both sites in Dec 2019."
@@ -239,8 +238,8 @@ var journey_data =
         "(1)Journey in Beijing (2)missionary calling."
     ],
     "2023": [
-        "30.0",
-        "future missionary"
+        "65.4",
+        "future missionary: research topic: understand and communicate the Gospel through OBI"
     ],
     "2024": [
         "",
