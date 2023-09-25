@@ -741,6 +741,26 @@ var imgsrcObj =
         5,
         "Brain Teaser for Geniuses: Find the mistake in the picture in 5 seconds!",
         "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-geniuses-find-the-mistake-in-the-picture-in-5-seconds-1695301892-1"
+    ],
+    "image146.png":[
+        15,
+        "Brain Teaser Visual Skill Test: Find six words hidden in the garden in 15 seconds!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-visual-skill-test-find-six-words-hidden-in-the-garden-in-15-seconds-1695392091-1"
+    ],
+    "image147.png":[
+        5,
+        "Optical Illusion Visual Skill Test: Find Coffee Cup in 5 Seconds",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-visual-skill-test-find-the-coffee-cup-in-the-wardrobe-in-5-seconds-1695365227-1"
+    ],
+    "image148.png":[
+        10,
+        "Only The Smartest Can Spot 4 Faces Hidden In This Optical Illusion In 10 Seconds!",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-spot-four-hidden-faces-1695375298-1"
+    ],
+    "image149.png":[
+        60,
+        "Puzzle IQ Test: Only a Sharp Brain Can Spot Which Woman Will Bring More Water to Home in Picture!",
+        "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-spot-which-woman-will-bring-more-water-home-1695367239-1"
     ]
 
 }
