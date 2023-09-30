@@ -761,6 +761,12 @@ var imgsrcObj =
         60,
         "Puzzle IQ Test: Only a Sharp Brain Can Spot Which Woman Will Bring More Water to Home in Picture!",
         "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-spot-which-woman-will-bring-more-water-home-1695367239-1"
+    ],
+    "image150.png":[
+        60,
+        "Can you spot the footprint?",
+        "https://www.the-sun.com/lifestyle/9200718/20-20-vision-hidden-footprint-busy-commuting-scene-seconds/"
+
     ]
 
 }
