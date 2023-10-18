@@ -24,6 +24,9 @@
     .hili_td{
         background-color: lightgray;
     }
+    .answerlink{
+        background-color: lightgray;
+    }
 </style>
 
 
@@ -34,7 +37,7 @@
     imgsrcObj;
     $(() => {
         const DELIMER = "~~~"
-        var stb = "<table border='1'><thead><tr><td>#</td><td>timer<br>(s)</td><td>Img</td><td>Tests: Click Icon To Start Test.</td></tr></thead><tbody>"
+        var stb = "<table border='1'><thead><tr><td>#</td><td>timer<br>(s)</td><td>Img</td><td>Descriptions</td></tr></thead><tbody>"
         var idx = 0
         var imgar = Object.keys(imgsrcObj)
         for (let [id, ary] of Object.entries(imgsrcObj)) {
@@ -54,7 +57,7 @@
                 <td class='hiliable'><img title='Please Click Image To Open: ${src}' class='optimg' src='${src}'/></td>
                 <td>
                     <a id='inp' value='${txt}'  href='${src}'>${txt}</a>
-                    <br><a href='${href}'>answer..</a></td></tr>`
+                    <br><a href='${href}' class='answerlink'>answer..</a></td></tr>`
         }
         stb += "</tbody></table>"
         //var str = JSON.stringify(imgsrcObj, null, 4)
@@ -100,8 +103,8 @@
 </script>
 
 <body>
-    <h1>Optical Illusion Collections</h1>
-    <p>Stress at first, Remember forever.</p>
+    <h1>Optical Illusion Collection</h1>
+    <p>(Stress once, Remember forever.)</p>
 
 
 
