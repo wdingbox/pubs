@@ -767,6 +767,30 @@ var imgsrcObj =
         "Can you spot the footprint?",
         "https://www.the-sun.com/lifestyle/9200718/20-20-vision-hidden-footprint-busy-commuting-scene-seconds/"
 
+    ],
+    "image151.png":[
+        90,
+        "Fragmentary painting (Mogao Caves:9thC):a Christian saint, possibly Nestorian. He has a halo, wears a cross in his headdress and one on his necklace, and a staff in his left hand. Ink and colour on silk.",
+        "https://www.britishmuseum.org/collection/object/A_1919-0101-0-48"
+
+    ],
+    "image152.png":[
+        90,
+        "Sarcophagus(North Italian, 13-14thC): Find the similaritties with Chinese antique.",
+        "https://www.metmuseum.org/art/collection/search/465920?searchField=All&amp;sortBy=Relevance&amp;when=A.D.+1000-1400&amp;ft=virgin+child&amp;offset=20&amp;rpp=20&amp;pos=40"
+
+    ],
+    "image153.png":[
+        90,
+        "Find similarities (Left: detail of drawing of Caterina Vilioni’s tombstone; right: Liu Guandao (劉貫道), Kublai Khan on the Hunt, 1280, paint on silk)",
+        "https://www.khanacademy.org/humanities/art-asia/imperial-china/yuan-dynasty/a/caterina-vilionis-tomb-in-yangzhou"
+
+    ],
+    "image154.png":[
+        6,
+        "Schroeder stairs can be perceived in two ways.",
+        "https://en.wikipedia.org/wiki/Schroeder_stairs"
+
     ]
 
 }

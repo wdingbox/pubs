@@ -1,5 +1,9 @@
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
 <base target="_blank">
 <style>
+    body{
+        margin-bottom: 500px;
+    }
     .optimg {
         height: 12px;
         border: 2px solid gray;
@@ -30,7 +34,7 @@
     imgsrcObj;
     $(() => {
         const DELIMER = "~~~"
-        var stb = "<table border='1'><thead><tr><td>#</td><td>timer<br>(s)</td><td>Tests: Click Icon To Start Test.</td></tr></thead><tbody>"
+        var stb = "<table border='1'><thead><tr><td>#</td><td>timer<br>(s)</td><td>Img</td><td>Tests: Click Icon To Start Test.</td></tr></thead><tbody>"
         var idx = 0
         var imgar = Object.keys(imgsrcObj)
         for (let [id, ary] of Object.entries(imgsrcObj)) {
@@ -45,7 +49,12 @@
             var hili_a = localStorage.getItem(sida)
             var hili_b = localStorage.getItem(sidb)
 
-            stb += `<tr><td class='hiliable ${hili_a}' hilidx='${idx}_a'>${idx}</td><td class='hiliable ${hili_b}' hilidx='${idx}_b' timelen='${tim}'>${tim}</td><td><img title='${src}' class='optimg' src='${src}'/><a id='testclock'>Click Icon To Start Test.</a><br/><a id='inp' value='${txt}'>${txt}</a><br><a href='${href}'>answer..</a></td></tr>`
+            stb += `<tr><td class='hiliable ${hili_a}' hilidx='${idx}_a'>${idx}</td>
+                <td class='hiliable ${hili_b}' hilidx='${idx}_b' timelen='${tim}'>${tim}</td>
+                <td class='hiliable'><img title='Please Click Image To Open: ${src}' class='optimg' src='${src}'/></td>
+                <td>
+                    <a id='inp' value='${txt}'  href='${src}'>${txt}</a>
+                    <br><a href='${href}'>answer..</a></td></tr>`
         }
         stb += "</tbody></table>"
         //var str = JSON.stringify(imgsrcObj, null, 4)
@@ -91,6 +100,7 @@
 </script>
 
 <body>
+    <h1>Optical Illusion Collections</h1>
     <p>Stress at first, Remember forever.</p>
 
 
