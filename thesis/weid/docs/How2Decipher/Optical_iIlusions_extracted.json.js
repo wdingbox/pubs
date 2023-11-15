@@ -791,6 +791,18 @@ var imgsrcObj =
         "Schroeder stairs can be perceived in two ways.",
         "https://en.wikipedia.org/wiki/Schroeder_stairs"
 
+    ],
+    "image155.png":[
+        8,
+        "Spot the three children of the beggar in 8 seconds.",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-spot-three-children-of-the-beggar-in-8-seconds-1697697862-1"
+
+    ],
+    "image156.png":[
+        10,
+        "TWO-FACED Can you spot the two hidden faces in this optical illusion in under ten seconds – only people with a high IQ can.",
+        "https://www.the-sun.com/news/9607886/hidden-faces-optical-illusion-high-iq-20-20-vision/"
+
     ]
 
 }
