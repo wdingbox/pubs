@@ -803,6 +803,11 @@ var imgsrcObj =
         "TWO-FACED Can you spot the two hidden faces in this optical illusion in under ten seconds – only people with a high IQ can.",
         "https://www.the-sun.com/news/9607886/hidden-faces-optical-illusion-high-iq-20-20-vision/"
 
+    ],
+    "image157.png":[
+        11,
+        "Can You Spot the Hidden Snake Among the Pile of Bananas in the Picture?",
+        "https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-spot-the-hidden-snake-among-bananas-in-the-picture-1700553450-1"
     ]
 
 }
