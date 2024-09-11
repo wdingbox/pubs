@@ -242,8 +242,8 @@ var journey_data ={
         "future missionary: research topic: understand and communicate the Gospel through OBI"
     ],
     "2024": [
-        "",
-        ""
+        "50",
+        "challenging year. Got sick in new year, wife lost job, body polyps, eye worse"
     ],
     "2025": [
         "",
