@@ -10,13 +10,13 @@ var indobj = {
             "idxpublished.html": 3199
         },
         {
-            "index.htm": 333404
+            "index.htm": 333567
         },
         {
             "index.html": 8451
         },
         {
-            "indobj.json.js": 110920
+            "indobj.json.js": 111045
         },
         {
             "indusr.js": 24
@@ -4719,7 +4719,10 @@ var indobj = {
             "Chennianfu_OBI_Table_20120409.pdf": 4417897
         },
         {
-            "chenNianFud.pdf": 11833581
+            "chenNianFud.pdf": 7442668
+        },
+        {
+            "chenNianFud_3table.pdf": 11833581
         },
         {
             "thesis_bobid.pdf": 859150
