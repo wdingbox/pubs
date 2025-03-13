@@ -1,0 +1,11 @@
+
+
+
+
+/Users/weiding/Sites/weidroot/weidroot_2017-01-06/app/bitbucket/wdingsoft/weid/pdf2018/latx/chenNianFu/texMaker/gen_texnianfuJiaguwen_nod.js
+
+creates tex file.
+
+main.tex generates pdf
+
+
