@@ -1,12 +1,13 @@
 
 
-var journey_data ={
+var journey_data =
+{
     "1964": [
-        "0.0",
+        "-100.3",
         "Born in Beijing Xuanwu Hospital in 1964, which is close to The Xuanwu Gate Catholic Church that was built by Matteo Ricci in 1605. (http://oa.upm.es/33835/1/SHAN_HUANG.pdf).  Visited both sites in Dec 2019."
     ],
     "1965": [
-        "-47.0",
+        "-95.9",
         "sent to a small Buddha town at Yiwu of Zhejiang Province to live with my grandma in Oct. "
     ],
     "1966": [
@@ -34,7 +35,7 @@ var journey_data ={
         ""
     ],
     "1972": [
-        "-70.8",
+        "-92.1",
         "carried back to Beijing to live w/ parents"
     ],
     "1973": [
@@ -46,8 +47,8 @@ var journey_data ={
         ""
     ],
     "1975": [
-        "",
-        ""
+        "-69.7",
+        "red-guard"
     ],
     "1976": [
         "",
@@ -74,7 +75,7 @@ var journey_data ={
         ""
     ],
     "1982": [
-        "-46.2",
+        "-54.6",
         "started college life far away from parents, influenced by Chinese Daoism(Laozi/Zhuangzi).(2) in 1986, continue the master's degree major in vibration control."
     ],
     "1983": [
@@ -102,7 +103,7 @@ var journey_data ={
         ""
     ],
     "1989": [
-        "-88.7",
+        "-91.8",
         "Tiananmen massacre. a tough decision to make between the master's degree diploma and the freedom, justice or truth, between the surviving and death. (2) It is a turning point of my attitude toward my original materialism, marxism and communism faith--the three loves became three hatred in my life--my goal of life was to leave China forever. Trump is my reminder of such trauma. (3) Work in Capital Iron & Steel Coop (CISC). "
     ],
     "1990": [
@@ -110,7 +111,7 @@ var journey_data ={
         ""
     ],
     "1991": [
-        "-40.0",
+        "-48.1",
         "(1)Left CISC. (2) UIC short training in Binghamton NY."
     ],
     "1992": [
@@ -158,7 +159,7 @@ var journey_data ={
         "stayed at home."
     ],
     "2003": [
-        "-100.0",
+        "-90.8",
         "(1) family conflict. (2) found a job in Ligos Software in Savannah GA."
     ],
     "2004": [
@@ -167,11 +168,11 @@ var journey_data ={
     ],
     "2005": [
         "9.7",
-        "(1) family burged. (2) children game"
+        "(1) family burged. (2) children-game "
     ],
     "2006": [
         "46.7",
-        "Shacco-Spring Retreat"
+        "Shacco-Spring Retreat (3) Da vinci code"
     ],
     "2007": [
         "",
@@ -223,7 +224,7 @@ var journey_data ={
     ],
     "2019": [
         "71.0",
-        "graduated fr CIU. Visit BJ with mission. "
+        "(1) score-driven. graduated fr CIU. Visit BJ with mission. "
     ],
     "2020": [
         "",
@@ -235,18 +236,18 @@ var journey_data ={
     ],
     "2022": [
         "69.7",
-        "(1)Journey in Beijing (2)missionary calling."
+        "(1) father passed away. Journey in Beijing (2)missionary calling."
     ],
     "2023": [
         "65.4",
         "future missionary: research topic: understand and communicate the Gospel through OBI"
     ],
     "2024": [
-        "50",
+        "50.0",
         "challenging year. Got sick in new year, wife lost job, body polyps, eye worse"
     ],
     "2025": [
-        "",
-        ""
+        "10.0",
+        "Charlie Kirk,rethinking living-mode"
     ]
 }
